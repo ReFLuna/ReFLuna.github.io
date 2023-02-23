@@ -136,6 +136,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 ---
 
 > [!NOTE]
+>
 >  - [**【本章节置顶资源下载】自学编程一路走来，这些私藏工具和网站我全贡献出来了！（附我的浏览器书签下载）**](https://mp.weixin.qq.com/s/XUHnLCbq7mDWhOc9imTVzg)
 
 程序员在平时的日常**工作**、**学习**、**开发**、**做笔记**、**写博客**等过程中还是有很多好用并且高效的**在线工具推荐**的，毕竟我们不是每时每刻我们都需要那种很重量级的本地软件。下面将分成**16个大类**，共整理了约**130+个**常用的在线工具和网站供大家食用。
@@ -383,7 +384,6 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 <p align="center">
 
 <iframe src="//player.bilibili.com/player.html?aid=87731293&bvid=BV1E7411b7w4&cid=149892227&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
 </p>
 
 ---
@@ -1023,7 +1023,6 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 <p align="center">
 
 <iframe src="//player.bilibili.com/player.html?aid=541205956&bvid=BV1Ai4y1V7PX&cid=208099724&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
 </p>
 
 <!-- panels:start -->
@@ -1242,7 +1241,6 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [入职一家公司，应该选择新业务还是老业务？](https://mp.weixin.qq.com/s/cu7mDeU2q2uEG8Q0CPzDEA)
 - [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
 - [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
-
 
 ---
 # **视频教程推荐**
@@ -1484,7 +1482,6 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
     </a>
 </p>
 
-
 ---
 # **本站开源地址**
 ---
@@ -1497,8 +1494,12 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 
 - [https://gitee.com/rd2coding/Road2Coding](https://gitee.com/rd2coding/Road2Coding) **欢迎Star支持**
 
-
 ---
 # 持续更新中...
 
 网站内容会持续保持更新，欢迎收藏品鉴！
+
+- --
+# log
+
+[230223](log\230223.md) 
