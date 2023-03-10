@@ -1506,3 +1506,15 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 
 [230303](log\230303)
 
+
+# music
+
+[music](log\music.md)
+
+[music](log\music)
+
+
+
+
+
+
