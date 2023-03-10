@@ -11,11 +11,9 @@
             "id": "a8b95e6cc40603b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_coverpage.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230304201220.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_coverpage.md",
+                "file": "Pasted image 20230304201220.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_coverpage.md",
+                "file": "Pasted image 20230304201220.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_coverpage.md"
+                "file": "Pasted image 20230304201220.png"
               }
             }
           }
@@ -146,14 +144,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8b95e6cc40603b6",
+  "active": "89ed4e8f16b03d84",
   "lastOpenFiles": [
+    "_coverpage.md",
     "_navbar.md",
     "img/img1-frequency-wave1920.png",
     "web/website.md",
     "web/website 1.md",
     "log/230303.md",
-    "_coverpage.md",
     "log/230223.md"
   ]
 }
