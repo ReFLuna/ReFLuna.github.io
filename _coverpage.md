@@ -10,7 +10,7 @@
 ![](img\img1-frequency-wave1920.png)
 ![](img/img1-frequency-wave1920.png)
 ![青](https://gitee.com/cayn/imsges/raw/master/USB_Display.png)
-![](Pasted%20image%2020230304201220.png)
+![](Pastedimage2020230304201220.png)
 
 ## 记住，一定要善用 `Ctrl+F` 哦！
 
